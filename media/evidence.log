@@ -1,0 +1,67 @@
+[2025-05-12 18:42:35] [DEBUG]: Running 1000 wallets with 29 assets each from DOW JONES
+[2025-05-12 18:42:35] [DEBUG]: Fetch data for AXP from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:36] [DEBUG]: Fetch data for AMGN from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:36] [DEBUG]: Fetch data for AMZN from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:36] [DEBUG]: Fetch data for AAPL from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:36] [DEBUG]: Fetch data for BA from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:37] [DEBUG]: Fetch data for CAT from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:37] [DEBUG]: Fetch data for CRM from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:37] [DEBUG]: Fetch data for CSCO from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:38] [DEBUG]: Fetch data for CVX from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:38] [DEBUG]: Fetch data for DIS from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:38] [DEBUG]: Fetch data for GS from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:39] [DEBUG]: Fetch data for HD from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:39] [DEBUG]: Fetch data for HON from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:39] [DEBUG]: Fetch data for IBM from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:40] [DEBUG]: Fetch data for JNJ from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:40] [DEBUG]: Fetch data for JPM from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:40] [DEBUG]: Fetch data for KO from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:41] [DEBUG]: Fetch data for MCD from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:41] [DEBUG]: Fetch data for MMM from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:42] [DEBUG]: Fetch data for MRK from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:42] [DEBUG]: Fetch data for MSFT from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:42] [DEBUG]: Fetch data for NKE from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:43] [DEBUG]: Fetch data for NVDA from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:43] [DEBUG]: Fetch data for PG from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:44] [DEBUG]: Fetch data for SHW from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:44] [DEBUG]: Fetch data for TRV from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:44] [DEBUG]: Fetch data for UNH from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:45] [DEBUG]: Fetch data for VZ from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:45] [DEBUG]: Fetch data for V from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:45] [DEBUG]: Fetch data for WMT from 2024-07-01 to 2024-12-31
+[2025-05-12 18:42:45] [DEBUG]: Weights and assets subsets created
+[2025-05-12 18:42:45] [DEBUG]: Total number of tasks: 30000
+Simulating wallets: 100%|██████████| 30000/30000 [00:28<00:00, 1055.13it/s]
+[2025-05-12 18:43:14] [DEBUG]: Best wallet from 2024-07-01 to 2024-12-31 was:
+[2025-05-12 18:43:14] [DEBUG]: AXP - 1.26%
+[2025-05-12 18:43:14] [DEBUG]: AMGN - 0.07%
+[2025-05-12 18:43:14] [DEBUG]: AMZN - 1.68%
+[2025-05-12 18:43:14] [DEBUG]: AAPL - 5.87%
+[2025-05-12 18:43:14] [DEBUG]: BA - 0.17%
+[2025-05-12 18:43:14] [DEBUG]: CAT - 0.15%
+[2025-05-12 18:43:14] [DEBUG]: CRM - 11.85%
+[2025-05-12 18:43:14] [DEBUG]: CSCO - 1.35%
+[2025-05-12 18:43:14] [DEBUG]: CVX - 1.94%
+[2025-05-12 18:43:14] [DEBUG]: DIS - 0.18%
+[2025-05-12 18:43:14] [DEBUG]: GS - 1.01%
+[2025-05-12 18:43:14] [DEBUG]: HD - 2.84%
+[2025-05-12 18:43:14] [DEBUG]: HON - 1.47%
+[2025-05-12 18:43:14] [DEBUG]: IBM - 10.36%
+[2025-05-12 18:43:14] [DEBUG]: JNJ - 1.8%
+[2025-05-12 18:43:14] [DEBUG]: JPM - 6.08%
+[2025-05-12 18:43:14] [DEBUG]: KO - 4.02%
+[2025-05-12 18:43:14] [DEBUG]: MCD - 2.68%
+[2025-05-12 18:43:14] [DEBUG]: MMM - 3.76%
+[2025-05-12 18:43:14] [DEBUG]: MSFT - 0.12%
+[2025-05-12 18:43:14] [DEBUG]: NKE - 7.31%
+[2025-05-12 18:43:14] [DEBUG]: NVDA - 1.83%
+[2025-05-12 18:43:14] [DEBUG]: PG - 1.36%
+[2025-05-12 18:43:14] [DEBUG]: SHW - 4.12%
+[2025-05-12 18:43:14] [DEBUG]: TRV - 0.77%
+[2025-05-12 18:43:14] [DEBUG]: UNH - 4.46%
+[2025-05-12 18:43:14] [DEBUG]: VZ - 4.77%
+[2025-05-12 18:43:14] [DEBUG]: V - 7.66%
+[2025-05-12 18:43:14] [DEBUG]: WMT - 9.06%
+[2025-05-12 18:43:14] [DEBUG]: Annual Return: 34.27%
+[2025-05-12 18:43:14] [DEBUG]: Annual Std Dev: 0.12
+[2025-05-12 18:43:14] [DEBUG]: Sharpe Ratio: 2.83
